@@ -1,3 +1,2 @@
 # Senior Thesis
-The dataset used to complete my thesis can be found here: https://www.kaggle.com/kendallgillies/nflstatistics.
-I wrote the entire thesis using RStudio.
+This is my thesis I wrote to complete my degree in Mathematical Statistics at Wake Forest University. Using data cleaning, exploratory data analysis, and statistical procedures, I worked on a dataset with NFL statistics and made data-driven predictions on future Hall of Fame inductions. The dataset used to complete this assignment can be found here: https://www.kaggle.com/kendallgillies/nflstatistics. I wrote my entire thesis using RStudio.
